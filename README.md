@@ -6,4 +6,4 @@ To run:
 python guimain.py
 
 
-Install kivy
+Install kivy & exiftool

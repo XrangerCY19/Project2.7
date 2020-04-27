@@ -2,7 +2,10 @@
 Advanced Surveillance System(Under-Construction)
 
 
-To run:
+To run 🏃🏃🏃🏃🏃🏃🏃🏃🏃:
+
+open 'run.bat'
+or
 python guimain.py
 
 

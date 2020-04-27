@@ -1,0 +1,1 @@
+activate project2.7 && python guimain.py && deactivate

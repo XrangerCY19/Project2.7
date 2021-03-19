@@ -1,5 +1,5 @@
 Cython==0.25.2
-Pillow==4.0.0
+Pillow==8.1.1
 argparse==1.2.1
 cycler==0.10.0
 dask==0.13.0

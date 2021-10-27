@@ -2,7 +2,7 @@ Cython==0.25.2
 Pillow==4.0.0
 argparse==1.2.1
 cycler==0.10.0
-dask==0.13.0
+dask==2021.10.0
 decorator==4.0.11
 functools32==3.2.3-2
 matplotlib==2.0.0

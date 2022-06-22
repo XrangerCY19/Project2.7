@@ -7,7 +7,7 @@ decorator==4.0.11
 functools32==3.2.3-2
 matplotlib==2.0.0
 networkx==1.11
-numpy==1.12.0
+numpy==1.22.0
 olefile==0.44
 pyparsing==2.1.10
 python-dateutil==2.6.0
